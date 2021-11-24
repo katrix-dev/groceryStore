@@ -56,5 +56,14 @@ body{
 
 .header .logo i{
     color:var(--orange);
+}
 
+.header .navbar a{
+    font-size: 1.7rem;
+    margin: 0 1rem;
+    color:var(--black);
+}
+
+.header .navber a:hover{
+    color: var(--orange);
 }
